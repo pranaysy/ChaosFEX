@@ -6,6 +6,7 @@ This repository contains optimized Python modules for transforming feature matri
 into higher dimensions using estimates derived from chaotic skew-tent maps.
 
 **Reference Paper:**
+
 Balakrishnan, Harikrishnan Nellippallil, Aditi Kathpalia, Snehanshu Saha, and Nithin Nagaraj. “ChaosNet: A Chaos Based Artificial Neural Network Architecture for Classification.” ArXiv:1910.02423 [Nlin, Stat], October 6, 2019. http://arxiv.org/abs/1910.02423.
 
 # Dependencies
