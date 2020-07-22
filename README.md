@@ -5,7 +5,7 @@ Feature Extraction using Chaos
 This repository contains optimized Python modules for transforming feature matrices
 into higher dimensions using estimates derived from chaotic skew-tent maps.
 
-[Video Explanation on YouTube](https://www.youtube.com/watch?v=8JQstLi4COk) highlighting chief ideas and inspiration.
+[Video explanation on YouTube](https://www.youtube.com/watch?v=8JQstLi4COk) on the usage of chaotic maps as kernels and highlighting chief ideas and inspiration.
 
 **Reference Paper:**
 
