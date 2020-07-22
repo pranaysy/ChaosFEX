@@ -5,6 +5,8 @@ Feature Extraction using Chaos
 This repository contains optimized Python modules for transforming feature matrices
 into higher dimensions using estimates derived from chaotic skew-tent maps.
 
+[Video Explanation on YouTube](https://www.youtube.com/watch?v=8JQstLi4COk) highlighting chief ideas and inspiration.
+
 **Reference Paper:**
 
 Balakrishnan, Harikrishnan Nellippallil, Aditi Kathpalia, Snehanshu Saha, and Nithin Nagaraj. “ChaosNet: A Chaos Based Artificial Neural Network Architecture for Classification.” ArXiv:1910.02423 [Nlin, Stat], October 6, 2019. http://arxiv.org/abs/1910.02423.
@@ -19,7 +21,7 @@ Balakrishnan, Harikrishnan Nellippallil, Aditi Kathpalia, Snehanshu Saha, and Ni
 
  - Presently unpackaged
  - Up-to-date conda environment with dependencies installed
- - `git clone $$` into a working directory
+ - `git clone` into a working directory
 
 # Usage
 
